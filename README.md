@@ -4,8 +4,8 @@ Python course of computer sciences at HSL
 For a detailed description per file see internal comments.
 
 Variables, expressions and statements:
-tijdmeting_op_mars.py
-euromunten.py
+- tijdmeting_op_mars.py
+- euromunten.py
 
 Conditionals:
 paardensprong.py
