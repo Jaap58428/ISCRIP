@@ -8,29 +8,29 @@ Variables, expressions and statements:
 - euromunten.py
 
 Conditionals:
-paardensprong.py
-formule1.py
+- paardensprong.py
+- formule1.py
 
 Control loops:
-interessante_getallen.py
-slaapkwaliteit.py
+- interessante_getallen.py
+- slaapkwaliteit.py
 
 Strings:
-caesar_cipher.py
-strong_passwords.py
+- caesar_cipher.py
+- strong_passwords.py
 
 Functions:
-life_expectancy.py
-mobile_synonims.py
+- life_expectancy.py
+- mobile_synonims.py
 
 List and tuples:
-game_of_life.py
-drunken_ant.py
+- game_of_life.py
+- drunken_ant.py
 
 Advanced functions and modules:
-Forsyth-Edwards_notatie.py
-Vierkant_van_Pascal.py
+- Forsyth-Edwards_notatie.py
+- Vierkant_van_Pascal.py
 
 Files:
-Double_Dutch.py
-Luchthavens.py
+- Double_Dutch.py
+- Luchthavens.py
